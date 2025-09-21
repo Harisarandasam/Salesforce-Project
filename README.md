@@ -1,4 +1,5 @@
-CRM Project – Healthcare Patient Engagement & Care Management
+**CRM Project – Healthcare Patient Engagement & Care Management**
+
 
 Phase 1: Problem Understanding & Industry Analysis
 Goal: Identify the gaps in patient engagement and care management, and define why Salesforce CRM is needed.
